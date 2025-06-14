@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Innovision-Dashboard.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Innovision-Dashboard.Common": "1.0.0"
+        },
+        "runtime": {
+          "Innovision-Dashboard.Infrastructure.dll": {}
+        }
+      },
+      "Innovision-Dashboard.Common/1.0.0": {
+        "runtime": {
+          "Innovision-Dashboard.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Innovision-Dashboard.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Innovision-Dashboard.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

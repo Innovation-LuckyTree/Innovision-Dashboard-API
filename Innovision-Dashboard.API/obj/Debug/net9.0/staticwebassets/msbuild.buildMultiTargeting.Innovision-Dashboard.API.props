@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Innovision-Dashboard.API.props" />
+</Project>

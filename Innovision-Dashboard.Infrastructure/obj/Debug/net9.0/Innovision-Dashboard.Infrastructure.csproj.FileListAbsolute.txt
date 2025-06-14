@@ -1,0 +1,15 @@
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\bin\Debug\net9.0\Innovision-Dashboard.Infrastructure.deps.json
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\bin\Debug\net9.0\Innovision-Dashboard.Infrastructure.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\bin\Debug\net9.0\Innovision-Dashboard.Infrastructure.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\bin\Debug\net9.0\Innovision-Dashboard.Common.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\bin\Debug\net9.0\Innovision-Dashboard.Common.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.AssemblyInfo.cs
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovisi.EAD3338E.Up2Date
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\refint\Innovision-Dashboard.Infrastructure.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\Innovision-Dashboard.Infrastructure.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Infrastructure\obj\Debug\net9.0\ref\Innovision-Dashboard.Infrastructure.dll

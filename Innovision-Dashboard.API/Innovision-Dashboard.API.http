@@ -1,0 +1,6 @@
+@Innovision_Dashboard.API_HostAddress = http://localhost:5267
+
+GET {{Innovision_Dashboard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

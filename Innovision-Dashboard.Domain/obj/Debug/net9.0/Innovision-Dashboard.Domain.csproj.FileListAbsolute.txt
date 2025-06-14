@@ -1,0 +1,11 @@
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\bin\Debug\net9.0\Innovision-Dashboard.Domain.deps.json
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\bin\Debug\net9.0\Innovision-Dashboard.Domain.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\bin\Debug\net9.0\Innovision-Dashboard.Domain.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\Innovision-Dashboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\Innovision-Dashboard.Domain.AssemblyInfoInputs.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\Innovision-Dashboard.Domain.AssemblyInfo.cs
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\Innovision-Dashboard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\Innovision-Dashboard.Domain.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\refint\Innovision-Dashboard.Domain.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\Innovision-Dashboard.Domain.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Domain\obj\Debug\net9.0\ref\Innovision-Dashboard.Domain.dll

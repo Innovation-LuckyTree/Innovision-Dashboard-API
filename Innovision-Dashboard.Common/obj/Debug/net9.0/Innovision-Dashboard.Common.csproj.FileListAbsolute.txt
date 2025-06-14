@@ -1,0 +1,11 @@
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\bin\Debug\net9.0\Innovision-Dashboard.Common.deps.json
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\bin\Debug\net9.0\Innovision-Dashboard.Common.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\bin\Debug\net9.0\Innovision-Dashboard.Common.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\Innovision-Dashboard.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\Innovision-Dashboard.Common.AssemblyInfoInputs.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\Innovision-Dashboard.Common.AssemblyInfo.cs
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\Innovision-Dashboard.Common.csproj.CoreCompileInputs.cache
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\Innovision-Dashboard.Common.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\refint\Innovision-Dashboard.Common.dll
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\Innovision-Dashboard.Common.pdb
+C:\Users\jovan\Documents\Sandbox\Innovision-Dashboard-API\Innovision-Dashboard.Common\obj\Debug\net9.0\ref\Innovision-Dashboard.Common.dll
